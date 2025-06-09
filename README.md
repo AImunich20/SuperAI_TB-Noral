@@ -1,4 +1,4 @@
-# SuperAI_TB-Noral
+# SuperAI_TB-Normal
 ## Roboflow Universe
 
 Need data for your project? Before spending time on annotating, check out Roboflow Universe, a repository of more than 110,000 open-source datasets that you can use in your projects. You'll find datasets containing everything from annotated cracks in concrete to plant images with disease annotations.
